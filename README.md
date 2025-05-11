@@ -24,3 +24,4 @@ An interactive and responsive movie rating website built with HTML, CSS, and Jav
 
 
 
+
