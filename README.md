@@ -19,7 +19,8 @@ An interactive and responsive movie rating website built with HTML, CSS, and Jav
 
 ## 🌐 Live Demo
 
-![Movie Card Rating](https://saf1hckr.github.io/Movie-Rating-Website-/)
+[Click here to view the Movie Card Rating website](https://saf1hckr.github.io/Movie-Rating-Website-/)
+
 
 
 
